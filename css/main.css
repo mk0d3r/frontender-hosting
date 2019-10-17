@@ -155,13 +155,9 @@ h2 {
     background: #3D444A;
     color: #fff;
     padding: 3em 0;
-    border-top-right-radius: 40px;
-    transform: skewY(2deg);
+    
 }
 
-.footer-container .container {
-    transform: skewY(-2deg);
-}
 
 .footer-container:before {
     content: "";
